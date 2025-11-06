@@ -1,0 +1,15 @@
+{
+    "id": 17238082,
+    "name": "Foxtrox [1.25x]",
+    "author": "TheFakeLogik",
+    "creators": ["TheFakeLogik"],
+    "verifier": "GD Catalyst",
+    "verification": "https://youtu.be/6A4VR92s_-8",
+    "percentToQualify": 100,
+    "records": [{
+    "user": "Philbon",
+    "percent": 51,
+    "link": "https://www.youtube.com/watch?v=j_-Hs2zFAvA",
+    "hz": 360
+}]
+}

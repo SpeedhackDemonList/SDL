@@ -1,0 +1,26 @@
+{
+    "id": 6300721,
+    "name": "Forsaken Neon [1.25x]",
+    "author": "Zobros",
+    "creators": ["Zobros, TriAxiS"],
+    "verifier": "ThePuff",
+    "verification": "https://www.youtube.com/watch?v=4oSVWyXDXoA",
+    "percentToQualify": 100,
+    "password": "123789",
+    "records": [         {
+        "user": "GD Catalyst",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=9dQSY-OltMo",
+        "hz": "N/A"
+    },         {
+        "user": "niue",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=hzUw5msqF8U",
+        "hz": "N/A"
+    },         {
+        "user": "Ujkloin",
+        "percent": 100,
+        "link": "https://youtu.be/OvgdTQiZFr4",
+        "hz": "144"
+    }]
+}

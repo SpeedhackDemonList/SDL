@@ -1,0 +1,15 @@
+{
+    "id": 112770258,
+    "name": "experiment [1.5x]",
+    "author": "mbed",
+    "creators": ["mbed","lumpy", "pocke", "serponge", "thedevon"],
+    "verifier": "RichConnerGMN",
+    "verification": "https://youtu.be/onOtD-mcuOk",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "Philbon",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=hl_1hRP0suI",
+        "hz": 540
+    }]
+}

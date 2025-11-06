@@ -1,0 +1,16 @@
+{
+    "id": 7899562,
+    "name": "Colorful OverNight [1.25x]",
+    "author": "WOOGI1411",
+    "creators": ["WOOGI1411"],
+    "verifier": "Meatius",
+    "verification": "https://www.youtube.com/watch?v=cOXMIEy9FPE",
+    "percentToQualify": 100,
+    "records": [         {
+        "user": "ThePuff",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=6eZ2abpCP2Q",
+        "hz": 360
+    }
+]
+}

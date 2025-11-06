@@ -1,0 +1,31 @@
+[
+    {
+        "role": "owner",
+        "name": "Philbon",
+        "link": "https://www.youtube.com/@philbon_"
+    }  
+,
+    {
+        "role": "owner",
+        "name": "Cinder",
+        "link": "https://www.youtube.com/@cindersfuzzy"
+    }
+,
+    {
+        "role": "admin",
+        "name": "mr_waffles",
+        "link": "https://www.youtube.com/@mrwaffles77"
+    }
+,
+    {
+        "role": "admin",
+        "name": "Creepium Gamer",
+        "link": "https://www.youtube.com/@CreepiumGamer"
+    }
+,
+    {
+        "role": "admin",
+        "name": "ThePuff",
+        "link": "https://www.youtube.com/@ThePuffGD"
+    }
+]

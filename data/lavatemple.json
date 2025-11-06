@@ -1,0 +1,15 @@
+{
+    "id": 4727649,
+    "name": "Lava Temple [1.65x]",
+    "author": "Michigun",
+    "creators": ["Michigun", "Ggb0y"],
+    "verifier": "Karawii",
+    "verification": "https://www.youtube.com/watch?v=W0QjYYdzwJw",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "gigaprox",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=yfeTGY1F1hI",
+        "hz": 360
+    }]
+}

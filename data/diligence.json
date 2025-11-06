@@ -1,0 +1,15 @@
+{
+    "id": 62419473,
+    "name": "Diligence [1.25x]",
+    "author": "Davphla",
+    "creators": ["Ilrell", "Adelx", "Makaron", "Lucasyecla99", "Pennutoh", "Ownbit", "SrGuillester", "Zafkiel", "Xaro", "GaidenHertuny", "Delta", "Unerve", "BionicPenguin", "Ji", "Brittank88", "iNeo", "Firsvii"],
+    "verifier": "DankLamp",
+    "verification": "https://www.youtube.com/watch?v=cuoD8HrJLi0",
+    "percentToQualify": 75,
+    "records": [{
+    "user": "J02B",
+    "percent": 100,
+    "link": "https://youtu.be/oCQGIIkWT5k?si=l_I19_H1viWnsEp-",
+    "hz": 240
+}]
+}

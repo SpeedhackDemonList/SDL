@@ -1,0 +1,25 @@
+{
+    "id": 34085027,
+    "name": "B [1.5x]",
+    "author": "Motleyorc",
+    "creators": ["Motleyorc"],
+    "verifier": "STierSpeedruns",
+    "verification": "https://www.youtube.com/watch?v=NqAQcp8o-eU",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "Chubby9000",
+        "percent": 100,
+        "link": "https://youtu.be/VLBSdPEn7Eg?t=38",
+        "hz": 330
+    },{
+        "user": "gigaprox",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=d2CvwQ65-l4",
+        "hz": 360
+    },{
+        "user": "SethTheGamr",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=RQCOG0wws1E",
+        "hz": 180
+    }]
+}

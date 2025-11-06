@@ -1,0 +1,16 @@
+{
+    "id": 77515178,
+    "name": "blush [2.0x]",
+    "author": "bunch",
+    "creators": ["bunch"],
+    "verifier": "Hawkyre",
+    "verification": "https://www.youtube.com/watch?v=H3UZ3-o3Hxs",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "niue",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=e2jFp1_Se3k",
+        "hz": 240
+        
+    }]
+}

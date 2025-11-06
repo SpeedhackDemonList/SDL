@@ -1,0 +1,15 @@
+{
+    "id": 93129312,
+    "name": "Dumal [2.0x]",
+    "author": "MIRugene",
+    "creators": ["MIRugene"],
+    "verifier": "Pixels",
+    "verification": "https://youtu.be/4wjb6Nj_XZo",
+    "percentToQualify": 75,
+    "records": [{
+    "user": "Philbon",
+    "percent": 100,
+    "link": "https://www.youtube.com/watch?v=TaQ1G2cXFU4",
+    "hz": 360
+}]
+}

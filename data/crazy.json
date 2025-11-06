@@ -1,0 +1,20 @@
+{
+    "id": 40945673,
+    "name": "CraZy [1.25x]",
+    "author": "DavJT",
+    "creators": ["DavJT"],
+    "verifier": "ThePuff",
+    "verification": "https://youtu.be/EkUy-0CR9UM?si=9GLulmx1IIQZ4ru-",
+    "percentToQualify": 100,
+    "records": [{
+    "user": "Miami",
+    "percent": 100,
+    "link": "https://www.youtube.com/watch?v=1kK8ygg5vUs",
+    "hz": 240
+},{
+    "user": "AvainPortti",
+    "percent": 54,
+    "link": "https://www.youtube.com/watch?v=IxMnJw6B9Es",
+    "hz": 360
+}]
+}

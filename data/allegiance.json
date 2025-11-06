@@ -1,0 +1,15 @@
+{
+    "id": 20761188,
+    "name": "Allegiance [1.4x]",
+    "author": "nikrodox",
+    "creators": ["nikrodox"],
+    "verifier": "Melted",
+    "verification": "https://youtu.be/9t7KgrxeDiI",
+    "percentToQualify": 75,
+    "records": [{
+    "user": "grilledcheeseman8",
+    "percent": 52,
+    "link": "https://www.youtube.com/watch?v=EPbpajh8JTU",
+    "hz": 480
+}]
+}
