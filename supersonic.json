@@ -1,0 +1,16 @@
+{
+    "id": 4706930,
+    "name": "Supersonic [1.25x]",
+    "author": "ZenthicAlpha",
+    "creators": ["Glittershroom, Jeyzor, Sumsar, Xcy7, DaddePro, Evasium, Ggb0y, ZenthicAlpha, Viprin"],
+    "verifier": "Kurumi",
+    "verification": "https://www.youtube.com/watch?v=H938futewQw",
+    "percentToQualify": 100,
+    "records": [         {
+        "user": "ThePuff",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=Q_0pz2UeCjg",
+        "hz": 360
+    }
+]
+}

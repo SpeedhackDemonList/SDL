@@ -1,0 +1,16 @@
+{
+    "id": 5904109,
+    "name": "Platinum Adventure [2.25x]",
+    "author": "Jerry4",
+    "creators": ["Jerry4"],
+    "verifier": "JpvpZ",
+    "verification": "https://youtu.be/p3Qu79DQDIE",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "gigaprox",
+        "percent": 100,
+        "link": "https://youtu.be/QpNRq2qrmP4",
+        "hz": 360
+    }],
+    "password": "000000"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 60887211,
+    "name": "Ultra violence [1.5x]",
+    "author": "Xender Game",
+    "creators": ["Xender Game"],
+    "verifier": "Gp0",
+    "verification": "https://youtu.be/Jfk63wNGqf4",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "Jacobility",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=PqTCYy_n4oU",
+        "hz": "165"
+    },{
+        "user": "bigpancakegd",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=k7HKcb8lNMk",
+        "hz": "720"
+    }]
+}

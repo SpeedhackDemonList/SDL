@@ -1,0 +1,15 @@
+{
+    "id": 56089612,
+    "name": "Zettabyte [1.3x]",
+    "author": "Jenkins",
+    "creators": ["Jenkins"],
+    "verifier": "Zerolink",
+    "verification": "https://youtu.be/4s25Ta7UdY4",
+    "percentToQualify": 75,
+    "records": [{
+    "user": "MyntiFresh",
+    "percent": 100,
+    "link": "https://youtu.be/ydDmFF9k9C4?si=-WvYAWjbgVE9Qede",
+    "hz": 360
+}]
+}

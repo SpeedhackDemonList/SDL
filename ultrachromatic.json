@@ -1,0 +1,15 @@
+{
+    "id": 78602801,
+    "name": "Ultrachromatic [1.25x]",
+    "author": "gmdmann",
+    "creators": ["Creator"],
+    "verifier": "Vink",
+    "verification": "https://youtu.be/-OOaBGZhc0g",
+    "percentToQualify": 75,
+    "records": [{
+        "user": "Chubby9000",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=Ind5oMDAlek",
+        "hz": 240
+    }]
+}
