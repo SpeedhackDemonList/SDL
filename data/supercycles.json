@@ -1,0 +1,32 @@
+{
+    "id": 57730,
+    "name": "Super Cycles [2.0x]",
+    "author": "Jax",
+    "creators": ["Jax"],
+    "verifier": "Wyattstuntman",
+    "verification": "https://www.youtube.com/watch?v=CcDTyL2qMjw",
+    "percentToQualify": 100,
+    "password": "3781",
+    "records": [{
+        "user": "vortex",
+        "percent": 100,
+        "link": "https://youtu.be/rmcPkplvr5A?si=Ww7xmHG-OVOJqSMO",
+        "hz": 360
+        
+    },{
+        "user": "niue",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=g8-BjSi5sxo",
+        "hz": 240
+        
+    }]
+}
+
+
+
+
+
+
+
+
+

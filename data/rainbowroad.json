@@ -1,0 +1,22 @@
+{
+    "id": 66439169,
+    "name": "Rainbow Road [1.25x]",
+    "author": "ilvEi",
+    "creators": ["ilvEi", "kakemancool"],
+    "verifier": "mewz",
+    "verification": "https://www.youtube.com/watch?v=TUHJXWHH8GY",
+    "percentToQualify": 100,
+    "records": [{
+    "user": "Loxgamerx1",
+    "percent": 100,
+    "link": "https://youtu.be/53NAjOxDylc",
+    "hz": 300
+},{
+    "user": "Philbon",
+    "percent": 100,
+    "link": "https://youtu.be/Z5zBq5t-57M",
+    "hz": 240
+}
+],
+    "password": "002003"
+}

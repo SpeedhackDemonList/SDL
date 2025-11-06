@@ -1,0 +1,28 @@
+{
+    "id": 55644969,
+    "name": "God Yeeter [2.0x]",
+    "author": "DanZmeN",
+    "creators": ["DanZmeN"],
+    "verifier": "V453C70M14",
+    "verification": "https://www.youtube.com/watch?v=zpNi64_edI0",
+    "percentToQualify": 75,
+    "records": [{
+        "user": "Hawkyre",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=xqQTUhcDxsw",
+        "hz": "N/A"
+    },{
+        "user": "niue",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=dBHyPxXz8X4",
+        "hz": 240
+        
+    },{
+        "user": "mr_waffles",
+        "percent": 92,
+        "link": "https://www.youtube.com/watch?v=ahCZY5PmpyE",
+        "hz": 288
+    }
+    
+    ]
+}

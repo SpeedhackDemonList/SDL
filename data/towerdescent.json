@@ -1,0 +1,20 @@
+{
+    "id": 92742742,
+    "name": "tower descent [1.4x]",
+    "author": "Pocke",
+    "creators": [],
+    "verifier": "WPball",
+    "verification": "https://youtu.be/_woG2apDUog",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "sdAce",
+        "percent": 100,
+        "link": "https://youtu.be/uNxeJ3UuL_k?si=RLxr8qe8KtvFu7Sw",
+        "hz": 60
+    },{
+        "user": "2bpencil",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=NRxC0ULEzDE",
+        "hz": 125
+    }]
+}
