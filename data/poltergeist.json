@@ -5,6 +5,7 @@
     "creators": ["Andromeda"],
     "verifier": "River",
     "verification": "https://www.youtube.com/watch?v=2nErbc7NNno",
-    "percentToQualify": 75,
+    "percentToQualify": 100,
     "records": []
+
 }
