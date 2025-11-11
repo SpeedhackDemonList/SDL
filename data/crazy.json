@@ -1,20 +1,11 @@
 {
     "id": 40945673,
-    "name": "CraZy [1.25x]",
+    "name": "CraZy [1.6x]",
     "author": "DavJT",
     "creators": ["DavJT"],
-    "verifier": "ThePuff",
-    "verification": "https://youtu.be/EkUy-0CR9UM?si=9GLulmx1IIQZ4ru-",
-    "percentToQualify": 100,
-    "records": [{
-    "user": "Miami",
-    "percent": 100,
-    "link": "https://www.youtube.com/watch?v=1kK8ygg5vUs",
-    "hz": 240
-},{
-    "user": "AvainPortti",
-    "percent": 54,
-    "link": "https://www.youtube.com/watch?v=IxMnJw6B9Es",
-    "hz": 360
-}]
+    "verifier": "Klaj",
+    "verification": "https://www.youtube.com/watch?v=7vxp3KwP7sM",
+    "percentToQualify": 75,
+    "records": []
+
 }
