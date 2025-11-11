@@ -1,10 +1,11 @@
 {
     "id": 43945511,
-    "name": "Game Time [1.5x]",
+    "name": "Game Time [1.75x]",
     "author": "SimilarAMZ",
     "creators": ["SimilarAMZ"],
-    "verifier": "Rubis",
-    "verification": "https://youtu.be/TzEXAu2co48",
-    "percentToQualify": 100,
+    "verifier": "Khazm",
+    "verification": "https://www.youtube.com/watch?v=ZN7iL2d62VM&t=1s",
+    "percentToQualify": 75,
     "records": []
+
 }
