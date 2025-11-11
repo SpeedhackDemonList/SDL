@@ -1,15 +1,11 @@
 {
     "id": 10505306,
-    "name": "Rupture [1.3x]",
+    "name": "Rupture [1.5x]",
     "author": "Jekko",
     "creators": ["Jekko"],
-    "verifier": "Karawii",
-    "verification": "https://www.youtube.com/watch?v=vnOeaK3N0Sw",
-    "percentToQualify": 100,
-    "records": [{
-    "user": "thunderhere",
-    "percent": 56,
-    "link": "https://www.youtube.com/watch?v=Od8miyY9GRo",
-    "hz": 240
-}]
+    "verifier": "Haiku",
+    "verification": "https://www.youtube.com/watch?v=GRSUp4xI6Nc&lc=UgxIe60Vx67JmPvh2FV4AaABAg",
+    "percentToQualify": 75,
+    "records": []
+
 }
