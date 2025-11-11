@@ -1,33 +1,11 @@
 {
     "id": 56587109,
-    "name": "phjork [1.75x]",
+    "name": "phjork [2.1x]",
     "author": "Cerufiffy",
     "creators": ["Cerufiffy"],
-    "verifier": "mr_waffles",
-    "verification": "https://www.youtube.com/watch?v=NO7oMIWeKII",
+    "verifier": "Saarhamelechy",
+    "verification": "https://www.youtube.com/watch?v=s_AAF4F0WsI",
     "percentToQualify": 100,
-    "records": [{
-        "user": "GD Chicken",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=iZc1mh4fVjk",
-        "hz": 550
-    },
-    {
-        "user": "Chubby9000",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=VLBSdPEn7Eg",
-        "hz": 330
-    },
-    {
-        "user": "CallMeMeowRa",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=HvLKlJhfooQ",
-        "hz": 240
-    },
-    {
-        "user": "Filet",
-        "percent": 100,
-        "link": "https://youtu.be/g2nF_ew4P3o?si=ul8atcif4aq-RKZN",
-        "hz": 82
-    }]
+    "records": []
+
 }
