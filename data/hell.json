@@ -1,25 +1,14 @@
 {
     "id": 25706351,
-    "name": "HeLL [1.5x]",
+    "name": "HeLL [1.6x]",
     "author": "Serponge",
     "creators": ["Serponge"],
-    "verifier": "PureL",
-    "verification": "https://www.youtube.com/watch?v=Ccb8tY6ieHo",
-    "percentToQualify": 100,
-    "records": [{
-        "user": "Karawii",
-        "percent": 100,
-        "link": "https://youtu.be/ZBz3pzXFC1g?si=WVB-MaO6e919BTnL",
-        "hz": 360
-    }
-    ,
-    {
-    "user": "Coolness",
-    "percent": 100,
-    "link": "https://www.youtube.com/watch?v=XQit3HhZdNY",
-    "hz": 240
-}]
+    "verifier": "Nxbulah",
+    "verification": "https://www.youtube.com/watch?v=m-y54fQDlHQ",
+    "percentToQualify": 75,
+    "records": []
 }
+
 
 
 
