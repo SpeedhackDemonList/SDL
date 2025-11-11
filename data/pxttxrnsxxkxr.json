@@ -1,15 +1,11 @@
 {
     "id": 81391957,
-    "name": "PXTTXRN SXXKXR [2.0x]",
+    "name": "PXTTXRN SXXKXR [2.25x]",
     "author": "Viot",
     "creators": ["Viot"],
-    "verifier": "MyntiFresh",
-    "verification": "https://youtu.be/OQgh7FL9MwU?si=829NRf316Do1sXFW",
-    "percentToQualify": 100,
-    "records": [{
-    "user": "Viscey",
-    "percent": 100,
-    "link": "https://www.youtube.com/watch?v=3J9b3qKmXUk",
-    "hz": 240
-}]
+    "verifier": "Viscey",
+    "verification": "https://www.youtube.com/watch?v=9tBt15ZOYi4",
+    "percentToQualify": 75,
+    "records": []
+
 }
