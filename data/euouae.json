@@ -5,6 +5,7 @@
     "creators": ["Vadi"],
     "verifier": "LegC",
     "verification": "https://www.youtube.com/watch?v=SwFRUZj_kAQ",
-    "percentToQualify": 75,
+    "percentToQualify": 100,
     "records": []
+
 }
