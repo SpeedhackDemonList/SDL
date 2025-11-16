@@ -1,33 +1,11 @@
 {
     "id": 1,
-    "name": "Clubstep [2.0x]",
+    "name": "Clubstep [2.1x]",
     "author": "RobTop",
     "creators": ["RobTop"],
-    "verifier": "Meatius",
-    "verification": "https://www.youtube.com/watch?v=7Pg1Xd_Htys",
+    "verifier": "Tommas",
+    "verification": "https://www.youtube.com/watch?v=91JrHyoiwjM",
     "percentToQualify": 100,
-    "records": [         {
-        "user": "Hawkyre",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=fSL2asZ9u4Y",
-        "hz": 360
-    }
-,
-    {
-        "user": "Creepium Gamer",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=FIO8J2jtJvo&t=193s",
-        "hz": 360
-        
-    }
-,  
-     {
-        "user": "TheRealCave",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=W34rXPnZjY0",
-        "hz": 360
-        
-    }
-    
-    ]
+    "records": []
+
 }
