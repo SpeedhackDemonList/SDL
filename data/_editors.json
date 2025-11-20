@@ -19,6 +19,13 @@
 ,
     {
         "role": "admin",
+        "name": "PlanetJuke",
+        "link": "https://www.youtube.com/channel/UCCRMdLgTRrVOgUZ6SLo2qDg"
+    }
+,
+    
+    {
+        "role": "admin",
         "name": "Creepium Gamer",
         "link": "https://www.youtube.com/@CreepiumGamer"
     }
