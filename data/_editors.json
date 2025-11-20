@@ -22,8 +22,7 @@
         "name": "PlanetJuke",
         "link": "https://www.youtube.com/channel/UCCRMdLgTRrVOgUZ6SLo2qDg"
     }
-,
-    
+, 
     {
         "role": "admin",
         "name": "Creepium Gamer",
@@ -34,5 +33,17 @@
         "role": "admin",
         "name": "ThePuff",
         "link": "https://www.youtube.com/@ThePuffGD"
+    }
+,
+    {
+        "role": "helper",
+        "name": "MyntiFresh",
+        "link": "https://www.youtube.com/channel/UCOnSS30i5nzDEgdzgqM3NJw"
+    }
+,
+    {
+        "role": "helper",
+        "name": "Melted",
+        "link": "https://www.youtube.com/channel/UCPxDwlfpKC6c4M5dq9SWvng"
     }
 ]
