@@ -43,6 +43,30 @@
 ,
     {
         "role": "helper",
+        "name": "jak",
+        "link": "https://www.youtube.com/channel/UC51IdV1_MYSJhH6P47ECJPA"
+    }
+,
+    {
+        "role": "helper",
+        "name": "FlinGuSPluNkuS",
+        "link": "https://www.youtube.com/@FlinGuSPluNkuS"
+    }
+,
+    {
+        "role": "helper",
+        "name": "nebula",
+        "link": "https://www.youtube.com/channel/UCKkpIwYFgkdnQBH14eerZYw"
+    }
+,
+    {
+        "role": "helper",
+        "name": "QuackerDeezles",
+        "link": "https://www.youtube.com/@quackerdeezles"
+    }
+,
+    {
+        "role": "helper",
         "name": "Melted",
         "link": "https://www.youtube.com/channel/UCPxDwlfpKC6c4M5dq9SWvng"
     }
