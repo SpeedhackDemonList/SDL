@@ -6,12 +6,6 @@
     }  
 ,
     {
-        "role": "owner",
-        "name": "Cinder",
-        "link": "https://www.youtube.com/@cindersfuzzy"
-    }
-,
-    {
         "role": "admin",
         "name": "mr_waffles",
         "link": "https://www.youtube.com/@mrwaffles77"
@@ -23,6 +17,12 @@
         "link": "https://www.youtube.com/channel/UCCRMdLgTRrVOgUZ6SLo2qDg"
     }
 , 
+    {
+        "role": "admin",
+        "name": "Cinder",
+        "link": "https://www.youtube.com/@cindersfuzzy"
+    }
+,
     {
         "role": "admin",
         "name": "Creepium Gamer",
