@@ -1,15 +1,10 @@
 {
     "id": 5298076,
-    "name": "Fake A Doom [1.5x]",
+    "name": "Fake A Doom [1.6x]",
     "author": "LunarSimg",
     "creators": ["LunarSimg"],
-    "verifier": "Philbon",
-    "verification": "https://youtu.be/w-9dQd0tIyY",
+    "verifier": "Chocoladaa",
+    "verification": "https://www.youtube.com/watch?v=AFuX-OvQJEM",
     "percentToQualify": 100,
-    "records": [{
-    "user": "nc03",
-    "percent": 100,
-    "link": "https://www.youtube.com/watch?v=UNUquQLDeC4",
-    "hz": 360
-}]
+    "records": []
 }
