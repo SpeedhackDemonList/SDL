@@ -6,8 +6,14 @@
     "verifier": "Ridimac",
     "verification": "https://www.youtube.com/watch?v=GXlRilImNa8",
     "percentToQualify": 75,
-    "records": []
+    "records": [{
+        "user": "FourDay",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=h6fWcTj0hks",
+        "hz": 60
+    }],
 }
+
 
 
 
