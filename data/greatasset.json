@@ -3,15 +3,12 @@
     "name": "Great Asset [1.8x]",
     "author": "PixelLolka",
     "creators": ["PixelLolka"],
-    "verifier": "Melted",
-    "verification": "https://www.youtube.com/watch?v=9BX0zpRPjGo",
+    "verifier": "NinjaGD",
+    "verification": "https://youtu.be/uUPSzj8hOBY?si=oCgYM31puElDP1js",
     "percentToQualify": 100,
-    "records": [{
-        "user": "NinjaGD",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=Qv0jdv8y3zg"
-    }]
+    "records": []
 }
+
 
 
 
