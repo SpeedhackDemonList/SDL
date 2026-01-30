@@ -1,26 +1,10 @@
 {
     "id": 56287,
-    "name": "Extreme Park [1.25x]",
+    "name": "Extreme Park [1.75x]",
     "author": "Rabbitical",
     "creators": ["Rabbitical"],
-    "verifier": "blu",
-    "verification": "https://www.youtube.com/watch?v=Hpk1Q9pU8RE",
+    "verifier": "Voidbois",
+    "verification": "https://www.youtube.com/watch?v=AgFjilbBh6o",
     "percentToQualify": 100,
-    "records": [{
-        "user": "VacagamerXD",
-        "percent": 100,
-        "link": "https://youtu.be/wOhPYScVPWE?si=ImQTnwLiBiWeBJ_e",
-        "hz": 60
-    },{
-    "user": "Ice_Byte",
-    "percent": 100,
-    "link": "https://www.youtube.com/watch?v=VLEzixyeFNc",
-    "hz": 120
-},{
-    "user": "Xanderfiles",
-    "percent": 100,
-    "link": "https://www.youtube.com/watch?v=CG-73wpS3SU",
-    "hz": 450
-}],
-    "password": "3372"
+    "records": []
 }
