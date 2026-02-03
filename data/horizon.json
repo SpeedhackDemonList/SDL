@@ -1,19 +1,15 @@
 {
     "id": 14850167,
-    "name": "Horizon [1.6x]",
+    "name": "Horizon [2.0x]",
     "author": "Mylon",
     "creators": ["Mylon"],
-    "verifier": "TechnicalJL",
-    "verification": "https://www.youtube.com/watch?v=vy0gC_4CGyQ",
+    "verifier": "mrjustokay",
+    "verification": "https://www.youtube.com/watch?v=k2b72jRxp5Q",
     "percentToQualify": 100,
-    "records": [{
-    "user": "Philbon",
-    "percent": 100,
-    "link": "https://youtu.be/ZlDRyJiImvo",
-    "hz": 360
-}],
+    "records": [],
     "password": "179317"
 }
+
 
 
 
