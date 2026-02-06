@@ -5,7 +5,7 @@
     "creators": ["timeless real"],
     "verifier": "Ridimac",
     "verification": "https://www.youtube.com/watch?v=GXlRilImNa8",
-    "percentToQualify": 75,
+    "percentToQualify": 100,
     "records": [{
         "user": "FourDay",
         "percent": 100,
@@ -13,14 +13,3 @@
         "hz": 60
     }]
 }
-
-
-
-
-
-
-
-
-
-
-
