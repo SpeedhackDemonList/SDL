@@ -5,7 +5,7 @@
     "creators": ["DanZmeN"],
     "verifier": "Hawkyre",
     "verification": "https://www.youtube.com/watch?v=xqQTUhcDxsw",
-    "percentToQualify": 75,
+    "percentToQualify": 100,
     "records": [{
         "user": "niue",
         "percent": 100,
@@ -18,3 +18,4 @@
         "hz": 288
     }]
 }
+
