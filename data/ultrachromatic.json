@@ -5,7 +5,7 @@
     "creators": ["Creator"],
     "verifier": "Vink",
     "verification": "https://youtu.be/-OOaBGZhc0g",
-    "percentToQualify": 75,
+    "percentToQualify": 100,
     "records": [{
         "user": "Chubby9000",
         "percent": 100,
