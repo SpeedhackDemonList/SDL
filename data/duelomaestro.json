@@ -6,14 +6,10 @@
     "verifier": "spcreat",
     "verification": "https://www.youtube.com/watch?v=rPuY4CTg__k",
     "percentToQualify": 75,
-    "records": []
+    "records": [{
+    "user": "Fighter",
+    "percent": 100,
+    "link": "https://youtu.be/-aopj2P_Wdg",
+    "hz": 240
+}]
 }
-
-
-
-
-
-
-
-
-
