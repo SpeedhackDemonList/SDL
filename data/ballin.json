@@ -6,6 +6,11 @@
     "verifier": "Melted",
     "verification": "https://youtu.be/5_AZemfNcIQ",
     "percentToQualify": 100,
-    "records": []
-
+    "records": [{
+        "user": "Ashleyssssss",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=uPuE6KpYnpY",
+        "hz": 240,
+    }]
 }
+
