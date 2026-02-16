@@ -1,10 +1,11 @@
 {
     "id": 76159556,
-    "name": "PAY [1.3x]",
+    "name": "PAY [1.5x]",
     "author": "PDKGD",
     "creators": ["PDK, MazZedy"],
-    "verifier": "Lychee",
-    "verification": "https://www.youtube.com/watch?v=PECcKO8XNFQ",
+    "verifier": "u_chr",
+    "verification": "https://www.youtube.com/watch?v=RV-e2jhlP-o",
     "percentToQualify": 100,
     "records": []
+
 }
