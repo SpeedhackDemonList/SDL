@@ -6,8 +6,14 @@
     "verifier": "leaf",
     "verification": "https://youtu.be/vx_Hwf4xC5s",
     "percentToQualify": 75,
-    "records": []
+    "records": [{
+        "user": "Jabbex"
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=eESza7NE_Lo",
+        "hz": 722,
+    }]
 }
+
 
 
 
