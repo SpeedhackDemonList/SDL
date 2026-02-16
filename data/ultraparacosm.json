@@ -7,12 +7,13 @@
     "verification": "https://youtu.be/vx_Hwf4xC5s",
     "percentToQualify": 75,
     "records": [{
-        "user": "Jabbex"
+        "user": "Jabbex",
         "percent": 100,
         "link": "https://www.youtube.com/watch?v=eESza7NE_Lo",
-        "hz": 722,
+        "hz": 722
     }]
 }
+
 
 
 
