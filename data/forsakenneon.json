@@ -8,10 +8,11 @@
     "percentToQualify": 100,
     "password": "123789",
     "records": [{
-        "user": "Arcta"
+        "user": "Arcta",
         "percent": 100,
-        "link": "https://www.youtube.com/watch?v=HDt4h5MGkbc"
-        "hz": 360,
+        "link": "https://www.youtube.com/watch?v=HDt4h5MGkbc",
+        "hz": 360
     }]
 }
+
 
