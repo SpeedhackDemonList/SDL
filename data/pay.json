@@ -6,6 +6,11 @@
     "verifier": "u_chr",
     "verification": "https://www.youtube.com/watch?v=RV-e2jhlP-o",
     "percentToQualify": 100,
-    "records": []
-
+    "records": [{
+        "user": "Squingis",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=QLmnQcug6MI",
+        "hz": 360
+    }]
 }
+
