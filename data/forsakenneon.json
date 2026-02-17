@@ -1,18 +1,14 @@
 {
     "id": 6300721,
-    "name": "Forsaken Neon [1.5x]",
+    "name": "Forsaken Neon [1.6x]",
     "author": "Zobros",
     "creators": ["Zobros, TriAxiS"],
-    "verifier": "KingKain",
-    "verification": "https://www.youtube.com/watch?v=vRFAy7f78xQ",
+    "verifier": "Zank",
+    "verification": "https://www.youtube.com/watch?v=PRcNPMbFSz8",
     "percentToQualify": 100,
     "password": "123789",
-    "records": [{
-        "user": "Arcta",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=HDt4h5MGkbc",
-        "hz": 360
-    }]
+    "records": []
 }
+
 
 
