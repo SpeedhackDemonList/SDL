@@ -6,5 +6,10 @@
   "verifier": "Cyrik",
   "verification": "https://www.youtube.com/watch?v=ndIK2M2TbCg",
   "percentToQualify": 75,
-  "records": []
+  "records": [{
+    "user": "GDRed",
+    "percent": 100,
+    "link": "https://www.youtube.com/watch?v=Q_Pdd1ekSYM",
+    "hz": 480
+  }]
 }
