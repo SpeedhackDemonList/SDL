@@ -1,20 +1,11 @@
 {
     "id": 13037894,
-    "name": "infinite circles [2.0x]",
+    "name": "infinite circles [2.1x]",
     "author": "Startor",
     "creators": ["Startor"],
-    "verifier": "mrjustokay",
-    "verification": "https://www.youtube.com/watch?v=J9Yqk1vExYc",
+    "verifier": "shafikdabest",
+    "verification": "https://www.youtube.com/watch?v=72dmhBiUlkI",
     "percentToQualify": 100,
-    "records": [{
-        "user": "niue",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=Y_rTRxiUTzo",
-        "hz": 240
-    },{
-        "user": "MicatenCZ",
-        "percent": 100,
-        "link": "https://www.youtube.com/watch?v=V8zA8tb0XyU",
-        "hz": 360
-    }]
+    "records": []
 }
+
