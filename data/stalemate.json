@@ -1,10 +1,11 @@
 {
     "id": 4545425,
-    "name": "Stalemate [1.25x]",
+    "name": "Stalemate [1.65x]",
     "author": "Nox",
     "creators": ["Nox"],
-    "verifier": "ThePuff",
-    "verification": "https://www.youtube.com/watch?v=VswpZAR6DIs",
-    "percentToQualify": 100,
+    "verifier": "dosos",
+    "verification": "https://www.youtube.com/watch?v=h061-tA0skg",
+    "percentToQualify": 75,
     "records":[]
+
 }
