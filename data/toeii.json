@@ -1,10 +1,11 @@
 {
     "id": 2,
-    "name": "Theory of Everything 2 [2.1x]",
+    "name": "Theory of Everything 2 [2.2x]",
     "author": "RobTop",
     "creators": ["RobTop"],
-    "verifier": "Zoink",
-    "verification": "https://youtu.be/ESgrIHTf3EA",
+    "verifier": "boig",
+    "verification": "https://www.youtube.com/watch?v=f-95FLELM1Q",
     "percentToQualify": 75,
     "records": []
+
 }
