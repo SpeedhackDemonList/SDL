@@ -6,5 +6,10 @@
   "verifier": "Vink",
   "verification": "https://www.youtube.com/watch?v=s0-IDctLvIk",
   "percentToQualify": 75,
-  "records": []
+  "records": [{
+    "user": "Wysie",
+    "percent": 100,
+    "link": "https://www.youtube.com/watch?v=rX9dBIR47Ss",
+    "hz": 480,
+  }]
 }
