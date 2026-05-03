@@ -6,6 +6,10 @@
     "verifier": "Khazm",
     "verification": "https://www.youtube.com/watch?v=ZN7iL2d62VM&t=1s",
     "percentToQualify": 75,
-    "records": []
-
+    "records": [{
+        "user": "7",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=rp2DXgaygko",
+        "hz": 240
+    }]
 }
