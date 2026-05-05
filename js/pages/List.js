@@ -107,10 +107,10 @@ export default {
                     </p>
                     
                     <p v-if="acropolisIndex !== null">
-                         DOWNLOADABLE raw footage must be given when submitting a level harder than Acropolis 1.5x (#{{ acropolisIndex + 1 }}). Any level deemed harder without raw will be rejected.
+                         DOWNLOADABLE raw footage must be given when submitting a level harder than Windy Landscape 1.75x (#{{ acropolisIndex + 1 }}). Any level deemed harder without raw will be rejected.
                         </p>
                         <p v-else>
-                            DOWNLOADABLE raw footage must be given when submitting a level harder than                          Acropolis 1.5x (position unknown). Any level deemed harder without raw will be rejected. An unedited and public live stream with chat enabled is acceptable as raw footage.
+                            DOWNLOADABLE raw footage must be given when submitting a level harder than                          Windy Landscape 1.75x (position unknown). Any level deemed harder without raw will be rejected. An unedited and public live stream with chat enabled is acceptable as raw footage.
                     </p>
 
                     <p>
@@ -172,7 +172,7 @@ export default {
 
           if (rawList) {
               const acroIndex = rawList.findIndex(
-                  name => name.toLowerCase() === 'acropolis'
+                  name => name.toLowerCase() === 'windy'
               );
               this.acropolisIndex = acroIndex !== -1 ? acroIndex : null;
           } else {
