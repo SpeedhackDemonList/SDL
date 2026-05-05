@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5228271143050782"
+     crossorigin="anonymous"></script>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=1024" />
+        <title>Speedhack Demon List</title>
+        <meta name="description" content="The SDL ranks the hardest rated demons done while using mods to artificially increase the speed.">
+        <meta http-equiv="refresh" content="1800">
+        <link
+            href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="stylesheet" type="text/css" href="/css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="/css/typography.css" />
+        <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        <link rel="stylesheet" type="text/css" href="/css/pages/list.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="/css/pages/leaderboard.css"
+        />
+        <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
+        <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
+        <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
+        <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
+        <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
+        
+        <!-- Cache Buster - Load BEFORE main.js -->
+        <script src="/js/cache-buster.js?v=2"></script>
+        
+        <!-- Main app - no version on modules (cache-buster handles it) -->
+        <script type="module" src="/js/main.js"></script>
+    </head>
+    <body id="app">
+        <header :class="{ dark: store.dark }">
+            <div class="logo">
+                <h2>SDL</h2>
+                <p>v1.2</p>
+            </div>
+            <nav class="nav">
+                <router-link class="nav__tab" to="/">
+                    <span class="type-label-lg">List</span>
+                </router-link>
+                <router-link class="nav__tab" to="/leaderboard">
+                    <span class="type-label-lg">Leaderboard</span>
+                </router-link>
+                <router-link class="nav__tab" to="/roulette">
+                    <span class="type-label-lg">Roulette</span>
+                </router-link>
+                <div class="nav__actions">
+                    <button
+                        class="nav__icon"
+                        @click.prevent="store.toggleDark()"
+                    >
+                        <img
+                            :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'"
+                            alt=""
+                        />
+                    </button>
+                    <a class="nav__icon" href="https://discord.gg/yUdJgNh2xR">
+                        <img src="/assets/discord.svg" alt="Discord Logo" />
+                    </a>
+                    <a
+                        class="nav__cta type-label-lg"
+                        href="https://forms.gle/467YV5VXt4UMTLpb9"
+                        target="_blank"
+                        >Submit Record</a
+                    >
+                </div>
+            </nav>
+        </header>
+        <router-view :class="{ dark: store.dark }"></router-view>
+    </body>
+</html>
