@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /#/
+Allow: /#/leaderboard
+Allow: /#/roulette
+
+Sitemap: https://speedhackdemonlist.github.io/SDL/sitemap.xml
