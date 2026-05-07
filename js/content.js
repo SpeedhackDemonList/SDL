@@ -4,8 +4,8 @@ import { round, score } from './score.js';
  * GitHub API Configuration
  * Fetches data directly from the SDL-data repository
  */
-const GITHUB_USERNAME = 'Philbon-alt';
-const GITHUB_REPO = 'SDL-data';
+const GITHUB_USERNAME = 'SpeedhackDemonList';
+const GITHUB_REPO = 'SDL';
 const GITHUB_BRANCH = 'main';
 const GITHUB_DATA_PATH = 'data';
 
