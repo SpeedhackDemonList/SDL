@@ -4,7 +4,7 @@
  */
 
 (function() {
-    const CURRENT_VERSION = '2.0.0'; // Increment this when you update JS files
+    const CURRENT_VERSION = '2.1.0'; // Increment this when you update JS files
     const STORED_VERSION = localStorage.getItem('app_version');
     
     if (STORED_VERSION !== CURRENT_VERSION) {
