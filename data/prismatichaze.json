@@ -6,5 +6,10 @@
     "verifier": "Robotic",
     "verification": "https://youtu.be/B7wA_ndSJUQ?si=64i43MAj4qZRKAKJ",
     "percentToQualify": 75,
-    "records": []
+    "records": [{
+        "user": "peekingurangle",
+        "percent": 100,
+        "link": "https://www.youtube.com/watch?v=t4vBfnqdXMU",
+        "hz": 720
+    }]
 }
