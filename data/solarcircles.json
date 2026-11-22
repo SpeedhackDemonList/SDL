@@ -6,5 +6,10 @@
     "verifier": "Tempti",
     "verification": "https://youtu.be/F5PQOOVq0cc?si=h8AfVRjqorGLXPfx",
     "percentToQualify": 75,
-    "records": []
+    "records": [{
+    "user": "niue",
+    "percent": "100",
+    "link": "https://www.youtube.com/watch?v=uausMVLw7ko",
+    "hz": 240
+}]
 }
