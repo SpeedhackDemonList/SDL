@@ -6,11 +6,6 @@
     "verifier": "Mel",
     "verification": "https://youtu.be/lfHT5GjfwTM",
     "percentToQualify": 75,
-    "records": [{
-    "user": "grilledcheeseman8",
-    "percent": 52,
-    "link": "https://www.youtube.com/watch?v=EPbpajh8JTU",
-    "hz": 480
-}]
+    "records": []
 
 }
